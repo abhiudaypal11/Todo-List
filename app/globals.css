@@ -1,0 +1,8 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+  background-color: #ba7ae2; /* Your desired background color */
+  margin: 0; /* Remove default margin */
+}
